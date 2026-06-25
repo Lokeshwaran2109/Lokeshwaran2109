@@ -61,15 +61,12 @@
 
 ## 🚀 Featured Projects
 
-🌾 Crop Recommendation System
-
-📄 Resume Analyzer
-
-📊 Power BI Superstore Dashboard
-
-☁ Azure Smart City Data Pipeline
-
----
+| Project | Description |
+|---------|-------------|
+| 🌾 Crop Recommendation System | Machine Learning + Streamlit |
+| 📄 Resume Analyzer | AI-powered Resume Analysis |
+| 📊 Power BI Dashboard | Sales Dashboard using Power BI |
+| ☁️ Azure Smart City Pipeline | End-to-End Azure Data Engineering |
 
 ⭐ Thanks for visiting my profile!
 <!--
