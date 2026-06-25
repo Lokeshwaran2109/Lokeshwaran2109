@@ -15,7 +15,22 @@
 - 📧 Email: your-email@example.com
 
 ---
+## 🌐 Connect with Me
 
+<p align="left">
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/Lokeshwaran2109">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://leetcode.com/YOUR-USERNAME/">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+</p>
+---
 ## 🛠️ Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
